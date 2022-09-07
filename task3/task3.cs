@@ -32,7 +32,6 @@ for (int i = 1; i < N; i++)
         res += 1;
         count = false;
     }
-
 }
 
 Console.WriteLine(String.Join(" ", arr));
